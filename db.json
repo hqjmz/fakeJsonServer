@@ -1,1 +1,23 @@
+{
+  "pan":{
+    "code": "SUCCESS",
+    "message": "OK",
+    "data": {
+           "status": "ACTIVE",
+           "isMatch": false,
+           "fullName": "JIGXXXXKUMAR AAAAAA AAAAAAA",
+    },
+    "extra": null,
+    "transactionId": "1986eb0c45779e58",
+    "pricingStrategy": "PAY"
 
+  },
+  "phone":{
+       "code": "SUCCESS",
+       "message": "OK",
+       "data": null,
+       "extra": null,
+       "transactionId":"f6fedde0feef3652",
+       "pricingStrategy": "PAY"
+   }
+}
